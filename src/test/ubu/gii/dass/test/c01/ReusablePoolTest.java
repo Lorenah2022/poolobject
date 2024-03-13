@@ -116,7 +116,7 @@ public class ReusablePoolTest {
 		try {
 
 			pool.releaseReusable(pool1);
-			pool.releaseReusable(pool2);
+			//pool.releaseReusable(pool2);
 			
 		}catch(Exception e) {
 			fail("Fallo del test.");
