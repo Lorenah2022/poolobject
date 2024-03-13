@@ -27,10 +27,10 @@ public class ReusablePoolTest {
 	/**
 	 * @throws java.lang.Exception
 	 */
-	@Before
-	public void setUp() throws Exception {
-		pool = ReusablePool.getInstance();
-	}
+	/*@Before
+	*public void setUp() throws Exception {
+	*	pool = ReusablePool.getInstance();
+	*/}
 
 	/**
 	 * @throws java.lang.Exception
