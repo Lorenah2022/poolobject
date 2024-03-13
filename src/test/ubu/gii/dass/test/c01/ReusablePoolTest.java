@@ -23,7 +23,7 @@ import ubu.gii.dass.c01.ReusablePool;
  *
  */
 public class ReusablePoolTest {
-		//private ReusablePool pool;
+	private ReusablePool pool;
 	/**
 	 * @throws java.lang.Exception
 	 */
