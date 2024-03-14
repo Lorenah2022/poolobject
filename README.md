@@ -5,7 +5,7 @@ Java code example of creational design pattern pool object
 
 [![Java CI build](https://github.com/VictorManuelMG/poolobject/actions/workflows/ci_jdk11_build.yml/badge.svg)](https://github.com/VictorManuelMG/poolobject/actions/workflows/ci_jdk11_build.yml) [![Java CI build, test and codecov](https://github.com/VictorManuelMG/poolobject/actions/workflows/ci_jdk1.8_build_test.yml/badge.svg)](https://github.com/VictorManuelMG/poolobject/actions/workflows/ci_jdk1.8_build_test.yml)
 [![codecov](https://codecov.io/gh/VictorManuelMG/poolobject/graph/badge.svg?token=XV8Q2HTMNH)](https://codecov.io/gh/VictorManuelMG/poolobject)
-[![codebeat badge](https://codebeat.co/badges/d4e8433b-1ac6-4d50-b476-5890514608bc)](https://codebeat.co/projects/github-com-lorenah2022-poolobject-master)
+[![codebeat badge](https://codebeat.co/badges/c2832c5a-5cfe-4401-8816-727d36a771ba)](https://codebeat.co/projects/github-com-lorenah2022-poolobject-master)
 
 Workshop to use good practices in software development: testing, ci and measurement.
 
